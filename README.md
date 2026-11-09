@@ -227,6 +227,7 @@ This list covers gateways that meet every test above, so several related tools a
 - [Reducing token cost from large tool sets](https://github.com/ai-gateways/mcp-gateway#reducing-token-cost-from-large-tool-sets): filtering and code-based tool orchestration
 - [Agent gateway vs MCP gateway vs LLM gateway](https://github.com/ai-gateways/agent-gateway#agent-gateway-vs-mcp-gateway-vs-llm-gateway): the three hops a single agent task crosses
 - [Best AI Gateways](https://github.com/ai-gateways/best-ai-gateways#best-open-source-ai-gateways): the same selective treatment for AI gateways
+- [Best Agent Gateways](https://github.com/ai-gateways/best-agent-gateways#best-open-source-agent-gateways): the same selective treatment for agent gateways
 - [Guardrails for tools and agents](https://github.com/ai-gateways/ai-guardrails#guardrails-for-tools-and-agents): checking tool arguments and tool results
 - [Shadow AI](https://github.com/ai-gateways/ai-governance#shadow-ai): unreviewed MCP servers and AI tools outside the gateway
 - [Awesome AI Gateways](https://github.com/ai-gateways/awesome-ai-gateways#mcp-gateways): the full catalog of MCP gateways
